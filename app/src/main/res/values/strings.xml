@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Game Score Counter</string>
+    <string name="teamCruzAzul">Cruz Azul</string>
+    <string name="teamAmerica">America</string>
+    <string name="button1">Goal!!!</string>
+    <string name="button2">Goal!!!</string>
+    <string name="team_cruz_azul">Team: Cruz Azul</string>
+    <string name="team_2_america">Team 2: America</string>
+    <string name="winnerteam">WinnerTeam</string>
+    <string name="score1">0</string>
+    <string name="score2">0</string>
+    <string name="winneract">Winner!</string>
+    <string name="text_bt">Text</string>
+    <string name="map_bt">Map</string>
+    <string name="call_bt">Call</string>
+    <string name="map_txt">Search for the closest stadium</string>
+    <string name="msg_txt">Text the result!</string>
+    <string name="call_txt">Call a friend!</string>
+</resources>
